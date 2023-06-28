@@ -22,11 +22,11 @@ The MNIST dataset is a widely used benchmark dataset in the field of computer vi
 
 ## Results
 
-1. **Generator and Discriminator Loss:** The plot below illustrates the generator and discriminator losses over the 20 epochs of training.
+**Generator and Discriminator Loss:** The plot below illustrates the generator and discriminator losses over the 20 epochs of training.
 
 ![Generator and Discriminator Loss](output/loss.png)
 
-2. **Generated Images:** The project generates hand-written digit images that closely resemble the real MNIST digits. The two images below depict a sample generated image from the early epochs and a sample generated image from the final epochs.
+**Generated Images:** The project generates hand-written digit images that closely resemble the real MNIST digits. The two images below depict a sample generated image from the early epochs and a sample generated image from the final epochs.
 
 Sample Generated Image from Early Epochs:
 
@@ -36,7 +36,7 @@ Sample Generated Image from Final Epochs:
 
 ![Final Epochs Generated Image](output/fake_samples_epoch_019.png)
 
-3. **Generated Images GIF:** The GIF below shows the progression of generated images over the training epochs.
+**Generated Images GIF:** The GIF below shows the progression of generated images over the training epochs.
 
 ![Generated Images GIF](output/generator_images.gif)
 
