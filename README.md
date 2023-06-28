@@ -29,9 +29,11 @@ The MNIST dataset is a widely used benchmark dataset in the field of computer vi
 2. **Generated Images:** The project generates hand-written digit images that closely resemble the real MNIST digits. The two images below depict a sample generated image from the early epochs and a sample generated image from the final epochs.
 
 Sample Generated Image from Early Epochs:
+
 ![Early Epochs Generated Image](output/fake_samples_epoch_000.png)
 
 Sample Generated Image from Final Epochs:
+
 ![Final Epochs Generated Image](output/fake_samples_epoch_019.png)
 
 3. **Generated Images GIF:** The GIF below shows the progression of generated images over the training epochs.
